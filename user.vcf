@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:oscar@bolideco.com
 TEL;type=Mobile;type=VOICE:562-449-8042
 item1.ADR;type=WORK;type=pref:;;468 S. San Dimas Ave. San Dimas, CA 91773
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:bolideco.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
